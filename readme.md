@@ -11,7 +11,7 @@ This helper automates the creation and sending of emails to companies you want t
 * **Smart Email Writing:** Automatically generates compelling subject lines and email body text that are tailored to the specific company you're contacting.
 * **Customized Eco-Suggestions:** Identifies and provides practical, actionable steps a company can take to improve its environmental footprint. These aren't just generic tips; they are chosen to be specifically relevant to that company's type of business and operations.
 * **Automated Sending:** Once the email is perfectly crafted, the tool can send it directly from your linked Gmail account.
-* **CC Option:** You can easily include an additional email address in the 'Carbon Copy' (CC) field if you need to keep another person informed.
+* **CC Option:** Please keep this to me. This way I can respond to replies (If we get any from someone).
 
 ### How It Works (Simply!)
 
