@@ -1,7 +1,3 @@
-Here's the revised README, focusing on a user-friendly guide and incorporating the information about App Passwords and CC functionality, without any code snippets.
-
----
-
 # Easy Eco Warrior Email Helper
 
 Welcome to the Easy Eco Warrior Email Helper! This powerful tool is designed to make reaching out to potential partners for sustainability initiatives smoother and more effective. It helps you create personalized and impactful outreach emails to companies, suggesting specific ways they can become more eco-friendly and making collaboration simple.
