@@ -37,5 +37,4 @@ mail_subject = mail_content['subject'].replace("*",'')
 print(mail_subject)
 print(mail_body)
 
-# Example
-# send_email(mail_subject, mail_body, recipient)
+send_email(mail_subject, mail_body, recipient)
