@@ -1,0 +1,66 @@
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+/bin/
+/include/
+/lib/
+/Scripts/
+/share/
+
+# Operating System Files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Environment Variables
+.env
+*.env
+
+# Local Development Files (often contain sensitive info or are machine-specific)
+*.log
+*.sqlite3
+db.sqlite3
+media/
+static/
+
+# Jupyter Notebook (if you happen to use it)
+.ipynb_checkpoints
+
+# Unit test / coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+*.spec
